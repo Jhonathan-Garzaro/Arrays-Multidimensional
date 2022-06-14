@@ -1,0 +1,15 @@
+C:\Users\gabri\fundamentos\coleçoes\bin\Debug\net6.0\coleçoes.exe
+C:\Users\gabri\fundamentos\coleçoes\bin\Debug\net6.0\coleçoes.deps.json
+C:\Users\gabri\fundamentos\coleçoes\bin\Debug\net6.0\coleçoes.runtimeconfig.json
+C:\Users\gabri\fundamentos\coleçoes\bin\Debug\net6.0\coleçoes.dll
+C:\Users\gabri\fundamentos\coleçoes\bin\Debug\net6.0\coleçoes.pdb
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\coleçoes.csproj.AssemblyReference.cache
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\coleçoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\coleçoes.AssemblyInfoInputs.cache
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\coleçoes.AssemblyInfo.cs
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\coleçoes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\coleçoes.dll
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\refint\coleçoes.dll
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\coleçoes.pdb
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\coleçoes.genruntimeconfig.cache
+C:\Users\gabri\fundamentos\coleçoes\obj\Debug\net6.0\ref\coleçoes.dll
